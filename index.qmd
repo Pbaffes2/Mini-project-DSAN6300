@@ -1,0 +1,46 @@
+---
+title: "Mini-Project-Website"
+---
+
+1. Cancellation Performance Across Airlines
+
+    We begin by examining which airlines had the highest cancellation counts and explore the underlying causes recorded in the dataset. These are then connected to relevant real-world events—such as major weather systems—to contextualize the spikes in airline disruptions.
+
+2. Delay Performance Across Airlines
+
+    Next, we analyze average delay times from several perspectives:
+
+    - Overall delay performance by airline
+
+    - Comparisons between arrival and departure delays
+
+    - How severe delays cluster across carriers
+
+    This section highlights which airlines struggled most and whether the causes appear systemic, weather-related, or operational.
+
+3. Geographic Trends: Cancellations and Delays by State
+
+    Using a U.S. map visualization, we explore how cancellations and delays varied geographically throughout January.
+    This portion examines:
+
+    - Which states experienced the most flight cancellations
+
+    - How the percentage of flights cancelled differs from the raw totals
+
+    - The extent to which January weather patterns correlate with disruption hotspots
+
+4. Time Trends: Day-by-Day Behavior
+
+    Finally, we view cancellations and delays over the entire month, identifying:
+
+    - Days with high delays but low cancellations
+
+    - Days with high cancellations but minimal delay buildup
+
+    - Days where both metrics spiked simultaneously
+
+    This helps reveal whether disruptions were isolated events or part of broader patterns.
+
+5. Interactive Dashboard
+
+    All visualizations used in the report come from a custom Power BI dashboard embedded at the end of the site. This dashboard includes multiple pages that allow for interactive exploration beyond the static images shown in the narrative.

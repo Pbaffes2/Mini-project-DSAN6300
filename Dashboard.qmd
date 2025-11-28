@@ -1,0 +1,23 @@
+---
+title: "Dashboard"
+author: Pavlos Baffes
+format: html
+---
+
+#### **Interactive Dashboard: Explore the Data Yourself**
+
+Below is the full Power BI dashboard that powers all the visualizations and analysis presented throughout this project. Use the interactive filters to drill down into specific airlines, dates, states, and time periods to uncover additional patterns and insights beyond what's been highlighted here. Whether you're interested in a particular carrier's performance, regional weather impacts, or daily operational trends, the dashboard allows you to explore the data from multiple angles and discover your own data-driven stories within January 2025's flight operations.
+
+Press on the "Fullscreen" button in the bottom right and then the "Fit to Page" button in the bottom right to fit with your computer or monitor size. 
+
+::: {=html}
+<iframe
+    title="DSAN 6300 Mini-Project"
+    width="125%"
+    height="600"
+    src="https://app.powerbi.com/view?r=eyJrIjoiNGE2OWEwOGEtYjMwZC00ODJlLTljNWEtMDVhMzE5MGY1MmM5IiwidCI6ImRlYjlhOGZjLTVmODQtNDRkZC05MTExLWExMWMwMTg0ZTFjZCIsImMiOjF9"
+    frameborder="0"
+    allowFullScreen="true">
+</iframe>
+:::
+

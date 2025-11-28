@@ -1,0 +1,47 @@
+---
+title: "Airline Delays"
+---
+
+We will next look at delays across different airlines along with their different reasons and drawing conclusions from these visuals.
+
+Below is a page from the dashboard with overall cancellation and delay metrics at the top. The graph in the middle left represents delay counts different delay length categories. The table in the middle right shows average delay minutes by days of the week. The barchart on the bottom shows the average delay minutes by each airline.
+
+![Delays page](delay-page.png)
+
+Nearly one in three flights (32.8%) experienced delays in January 2025, with 177,110 delayed departures out of 539,750 total flights. The average delay of 14.09 minutes might seem modest, but multiplied across thousands of daily flights, this translates to countless missed connections, disrupted travel plans, and significant economic impact.
+
+Interestingly, when flights do depart early, which represents a positive passenger experience, they leave an average of just 6 minutes ahead of schedule, suggesting airlines maintain relatively tight scheduling with limited buffer time.
+
+The "Delay Counts per Category" reveals that while 362,000 flights departed on time, delays show a clear pattern:
+
+- 84,690 flights experienced 1-15 minute delays (the largest delay category)
+- Sharp drop-off to 31,832 flights delayed 16-30 minutes
+- 28,119 flights faced 31-60 minute delays
+- 31,622 flights (5.8% of all flights) were delayed over one hour
+
+Delays exceeding 30-60 minutes typically cascade into missed connections and significant passenger disruption. The concentration in the 1-15 minute category suggests that operational improvements in ground handling and boarding could substantially improve system-wide performance.
+
+When Delays Peak
+
+Mondays are worst with 17.19 minutes average delay—likely due to weekend weather carryover and business travel rush
+Wednesdays show best performance at just 9.68 minutes
+Weekends see elevated delays (Saturday: 15.92, Sunday: 17.13 minutes)
+
+High-Delay Airlines:
+
+- Allegiant Air (21.69 minutes) and PSA Airlines (22.14 minutes) lead in delays
+- PSA's dual challenge: High cancellations AND longest delays suggest severe operational issues
+
+Top Performers:
+
+- Republic Airline (7.69 minutes)—less than half the industry average
+- Alaska (9.93 minutes) and Southwest (9.93 minutes) demonstrate operational excellence with delays below 10 minutes
+
+The Southwest Paradox: Cancel vs. Delay Strategy
+Southwest's combination of high cancellations but low delays (9.93 minutes) reveals a possible strategic operational philosophy: cancel proactively rather than delay extensively. This contrasts with PSA and Allegiant, which appear to delay flights rather than cancel, potentially leaving passengers waiting for extended periods—arguably a worse experience than a clear cancellation with rebooking options.
+Key Insights
+
+The 1-15 minute delay concentration indicates ground operation improvements could significantly boost on-time performance
+Day-of-week patterns suggest predictable capacity constraints that passengers and airlines can plan around.
+
+PSA Airlines' dual challenges with both high delays and cancellations may warrant an operational review to identify systemic issues affecting performance. However, it's worth noting that regional weather patterns likely play a significant role in these metrics, as many airlines operate heavily in specific geographic areas—winter storms in the Northeast and Midwest can disproportionately impact carriers with concentrated hub operations. This geographic concentration means that localized weather events can dramatically skew an airline's national performance statistics. For example, PSA typically operates up and down the east coast, where snowstorms consistently hit every winter.

@@ -1,0 +1,82 @@
+---
+title: "Geographic Trends"
+---
+
+We will next examine delays and cancellations across states to track how major weather events impacted U.S. air travel throughout January 2025.
+
+Below is a map of the U.S. offering three analytical views: average delay in minutes by state, total cancellation counts by state, and cancellation percentage by state. These views reveal distinct geographic patterns in flight disruptions.
+
+![](Overall-map-image.png){width=800px}
+
+By analyzing three significant winter storms that struck in January 2025, we can trace the movement and cascading effects of these weather systems across the country through state-level cancellation percentages.
+
+Use the interactive Dashboard tab to explore these patterns in detail—filter by specific dates, airlines, and states to see how individual storms and operational factors shaped flight disruptions throughout the month.
+
+
+## 1. January 5–6, 2025 United States blizzard
+
+This winter storm tracked from the Midwest to the East Coast over January 5-6, 2025. The maps below display states that experienced cancellation rates exceeding 30% during this period, illustrating the storm's impact on air travel as it moved across the country.
+
+| Cancellations on Jan 5 | Cancellations on Jan 6 |
+|------------------------|-------------------------|
+| ![](Jan-5-storm.png){width=400px} | ![](Jan-6-storm.png){width=400px} |
+| **• Kansas:** 92.6%  <br> **• Missouri:** 79.3% <br> **• Kentucky:** 41.8% | **• West Virginia:** 100% <br> **• Virginia:** 68.75% <br> **• Maryland:** 57.87% <br> **• Kentucky:** 55.6% <br> **• Missouri:** 53.1% <br> **• Kansas:** 39.7% |
+
+
+**Cancellations on Jan 5-6**
+![](Jan-5-6-storm-overall.png){width=800px}
+
+- **Kansas** — 67.1%
+- **Missouri** — 66.8%
+- **West Virginia** — 63.6%
+- **Kentucky** — 48.7%
+- **Virginia** — 37.5%
+- **Maryland** — 30.3%
+
+The geographic impact of the January 5-6, 2025 blizzard is strikingly evident in the cancellation data, with states in the storm's direct path experiencing catastrophic disruption to air travel. Kansas and Missouri bore the brunt of the storm, with cancellation rates exceeding 66% across the two-day period, while the storm's eastward progression left West Virginia, Kentucky, Virginia, and Maryland with cancellation rates ranging from 30% to 64%.
+
+## 2. January 9–10, 2025 United States winter storm
+
+This winter storm tracked from the Mid-South to the South-East over January 9-10, 2025. The maps below display states that experienced cancellation rates exceeding 30% during this period, illustrating the storm's impact on air travel as it moved across the country.
+
+| Cancellations on Jan 9 | Cancellations on Jan 10 |
+|------------------------|-------------------------|
+| ![](Jan-9-storm.png){width=400px} | ![](Jan-10-storm.png){width=400px} |
+| • **Texas** — 53.5% <br> • **Arkansas** — 36.6% <br> • **Kansas** — 33.3% | • **Georgia** — 80.7% <br> • **Arkansas** — 65.7% <br> • **Alabama** — 63.4% <br> • **Tennessee** — 57.9% <br> • **North Carolina** — 45.9% <br> • **Mississippi** — 36.7% |
+
+
+**Cancellations on Jan 9-10**
+![](Jan-9-10-storm-overall.png){width=800px}
+
+- **Arkansas** — 50.7%
+- **Alabama** — 44.4%
+- **Georgia** — 42.0%
+- **Texas** — 37.6%
+- **Tennessee** — 32.9%
+- **Mississippi** — 32.8%
+
+The January 9-10, 2025 winter storm's path through the Mid-South and Southeast reveals a similar pattern of severe disruption, with the storm's impact intensifying as it moved eastward. Georgia experienced the most severe single-day impact with an 80.7% cancellation rate on January 10, while Arkansas faced sustained disruption across both days with a combined 50.7% cancellation rate. The storm's unusual track through typically warmer southern states—where airports are less equipped for winter weather operations—contributed to the high cancellation rates, with major hubs in Atlanta, Charlotte, and other southeastern cities effectively paralyzed during the storm's peak.
+
+## 3. January 20-22, 2025 Gulf Coast blizzard
+
+This winter storm tracked from the Gulf Coast of the U.S. over January 21-22, 2025. The maps below display states that experienced cancellation rates exceeding 30% during this period, illustrating the storm's impact on air travel as it moved across the country.
+
+| Cancellations on Jan 21 | Cancellations on Jan 22 |
+|------------------------|-------------------------|
+| ![](Jan-21-storm.png){width=400px} | ![](Jan-22-storm.png){width=400px} |
+| • **Louisiana** — 93.0% <br> • **Mississippi** — 73.1% <br> • **Texas** — 37.76% <br> • **West Virginia** — 33.3% | • **Louisiana** — 91.7% <br> • **South Carolina** — 65.6% <br> • **Mississippi** — 60.7% <br> • **West Virginia** — 30.0% |
+
+
+**Cancellations on Jan 21-22**
+![](Jan-21-22-storm-overall.png){width=800px}
+
+- **Louisiana** - 92.3%
+- **Mississippi** - 66.7%
+- **South Carolina** - 41.9%
+- **West Virginia** - 31.6%
+
+The January 21-22, 2025 Gulf Coast blizzard delivered the most concentrated and severe disruption of the month, with Louisiana experiencing a near-total aviation shutdown at 92.3% cancellations across the two-day period. This rare winter weather event in the Deep South caught the region particularly unprepared, as Gulf Coast airports rarely encounter snow and ice conditions—Louisiana and Mississippi's sustained cancellation rates above 60% reflect both the severity of the storm and the lack of winter weather infrastructure in these typically mild climates. The storm's impact on South Carolina (41.9%) demonstrates how the system continued to disrupt air travel as it tracked along the Atlantic coast, compounding the challenges faced by airlines already dealing with displaced crews and aircraft from earlier January storms.
+
+## Conclusion
+
+January 2025's three major winter storms demonstrate how concentrated weather events can effectively paralyze regional air travel, with cancellation rates exceeding 90% in the hardest-hit states. The compounding effects of successive storms—particularly for airlines with displaced crews and aircraft—underscore the vulnerability of the national aviation network to severe weather. Return to the Dashboard to explore additional patterns in delay reasons, airline-specific performance, and temporal trends throughout the month.

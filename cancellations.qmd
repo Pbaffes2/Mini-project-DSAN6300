@@ -1,0 +1,15 @@
+---
+title: "Airline Cancellations"
+---
+
+We will begin by looking at overall cancellations across different airlines along with their different reasons and drawing conclusions from these visuals.
+
+Below is an with overall cancelattions and delay metrics at the top. The graph in the middle left represents cancellations by grouping of reason. The table in the middle right shows cancellations by days of the week. The barchart on the bottom shows cancellation counts for each airline clustered by cancellation reason.
+
+![Cancellations page](Cancellation-Page.png)
+
+We can see the total amount of flights in the month of January 2025 was nearly 540K flights with about 16.3K cancellations. This means about 3% of flights were cancelled in January 2025.
+
+Most of the cancellations occured on Thursday and Friday. Also we see that the top cancellers for the month of January were American, PSA, Delta, and Southwest accounting for more than 60% of the cancellations, which may suggest that the hubs of those airports may have been hit with inclement weather over the month.
+
+Of course, most of the cancellations in the month were due to weather, however if we take a look at the bar chart showing the grouping of cancallation reason with airlines, we can see both delta and PSA had a large spike in Carrier cancellation reasons, suggesting internal issues with both Delta and PSA over the month of January. This can point to possible staffing issues or issues with the aircraft. An issue with the aircraft could have arised from the inclement weather over the course of January, as we will explore in the map visual tab.

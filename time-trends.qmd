@@ -1,0 +1,14 @@
+---
+title: "Day-by-Day Behavior"
+---
+## Day-by-Day Impact: Tracking January's Disruption Timeline
+
+The timeline visualization below provides a comprehensive day-by-day view of flight disruptions throughout January 2025, revealing how the three major winter storms created dramatic spikes in both cancellations and delays against an otherwise stable operational baseline.
+
+![](day-to-day-page.png){width=800px}
+
+The day-over-day visualization reveals the dramatic volatility in U.S. air travel throughout January 2025, with three distinct spikes in cancellations that directly correspond to the major winter storms analyzed earlier. The correlation between total minutes delayed (dark blue) and flights cancelled (light blue) tells an operational story: when weather conditions deteriorate severely, airlines shift from delaying flights to outright cancellations, as seen in the towering peaks on January 6th, 10th, and 21st-22nd.
+
+The January 5-6 blizzard created the first major disruption, with cancellations surging to nearly 2,000 flights on January 6th as the storm moved from the Midwest to the East Coast. Notably, total delay minutes peaked slightly earlier on January 5th at around 3,500 minutes, suggesting airlines initially attempted to operate through deteriorating conditions before making the decision to cancel more aggressively the following day. This pattern of delay spikes preceding cancellation spikes reflects the difficult real-time decisions airlines must make as weather conditions evolve.
+
+The most severe disruption occurred during the January 9-10 storm, where cancellations exploded to nearly 3,000 flights on January 10th, the highest single-day cancellation count of the month. This peak aligns with the 80.7% cancellation rate observed in Georgia, home to the nation's busiest airport in Atlanta. The Gulf Coast blizzard on January 21-22 produced a more sustained disruption pattern, with elevated cancellations across both days (approximately 1,500-1,700 flights) rather than a single dramatic spike, reflecting Louisiana and Mississippi's complete shutdown over the extended period. Between these major events, the system demonstrates strong resilience, quickly returning to baseline levels of 100-200 daily cancellations and minimal delays, though each successive storm likely compounded operational challenges through crew and aircraft displacement.
